@@ -1,20 +1,14 @@
 # product_listing_app
 
 A new Flutter project.
-Flutter project - Listing product page (read, add and remove options).
+Challenge: Listing App and Product Details
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+To solve this challenge, I created a simple application in Flutter, with the main pages (login, product list and product details).
+With this, I learned how to work with named routes, simple state management with a provider and all the widgets that were necessary to analyze the pages and add the necessary functionality.
+At this stage, I didn't focus on making the screens super pretty but on understanding how flutter works, it was very good practice, even though there are few screens, practice makes perfect. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## APP PrintScreen
 
@@ -65,4 +59,4 @@ samples, guidance on mobile development, and a full API reference.
 ![New Product page](./assets/images/add_product_page.png)
 
 
-
+Thanks for visiting, don't forget to leave a star here in the repository!
