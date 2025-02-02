@@ -42,12 +42,18 @@ samples, guidance on mobile development, and a full API reference.
 ![Product List page](./assets/images/product_list.png)
 
 
+#### Product 2 - Detail Page
+
+
+![Product Detail page](./assets/images/producy_detail-2.png)
+
+
 #### Product Listing Page, when i remove second Product Item in the list
 
 
 ![Product List page](./assets/images/after_remove_action_screen.png)
 
-#### Product 1 - Detail Page
+#### Product 3 - Detail Page
 
 
 ![Product Detail page](./assets/images/product_detail-1.png)
@@ -58,8 +64,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ![New Product page](./assets/images/add_product_page.png)
 
-#### Product 2 - Detail Page
 
-
-![Product Detail page](./assets/images/producy_detail-2.png)
 
