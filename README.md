@@ -20,12 +20,12 @@ samples, guidance on mobile development, and a full API reference.
 
 Inicial Loading Page
 
-![Loading page](./assets/imagens/splash_page.png).
+![Loading page](./assets/images/splash_page.png)
 
 Login Page
 
-![Login page](./assets/imagens/login_page.png).
+![Login page](./assets/images/login_page.png)
 
 Product List Page
 
-![Product List page](./assets/imagens/product_list.png).
+![Product List page](./assets/images/product_list.png)
