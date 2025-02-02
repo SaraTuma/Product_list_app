@@ -1,6 +1,5 @@
 # product_listing_app
 
-A new Flutter project.
 Challenge: Listing App and Product Details
 
 ## Description
