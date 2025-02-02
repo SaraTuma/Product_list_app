@@ -16,16 +16,50 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#### APP PrintScreen
+## APP PrintScreen
 
-Inicial Loading Page
+#### Inicial Loading Page
+
 
 ![Loading page](./assets/images/splash_page.png)
 
-Login Page
+
+#### Login Page
+
 
 ![Login page](./assets/images/login_page.png)
 
-Product List Page
+
+#### Login Page Validate Action
+
+
+![Login page](./assets/images/login_validate_inputs.png)
+
+
+#### Product List Page
+
 
 ![Product List page](./assets/images/product_list.png)
+
+
+#### Product Listing Page, when i remove second Product Item in the list
+
+
+![Product List page](./assets/images/after_remove_action_screen.png)
+
+#### Product 1 - Detail Page
+
+
+![Product Detail page](./assets/images/product_detail-1.png)
+
+
+#### Add New Product Page
+
+
+![New Product page](./assets/images/add_product_page.png)
+
+#### Product 2 - Detail Page
+
+
+![Product Detail page](./assets/images/producy_detail-2.png)
+
