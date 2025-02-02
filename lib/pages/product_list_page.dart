@@ -34,7 +34,9 @@ class _ProductListPageState extends State<ProductListPage> {
     final authProvider = Provider.of<AuthProvider>(context);
     return Scaffold(
       appBar: AppBar(
-        leading: IconButton(onPressed: (){}, icon: Icon(Icons.logout)),
+        leading: IconButton(onPressed: (){
+          Navigator.of(context).pushReplacementNamed("/login");
+        }, icon: Icon(Icons.logout, color: Colors.white)),
         //automaticallyImplyLeading: false,
         title: Text(showDetails ? 'Product Detail':'E-mail: ${authProvider.email}', style: TextStyle(color: Colors.white)),
         backgroundColor: Theme.of(context).colorScheme.primary,
