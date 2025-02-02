@@ -1,6 +1,7 @@
 # product_listing_app
 
 A new Flutter project.
+Flutter project - Listing product page (read, add and remove options).
 
 ## Getting Started
 
