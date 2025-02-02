@@ -6,7 +6,9 @@ Challenge: Listing App and Product Details
 ## Description
 
 To solve this challenge, I created a simple application in Flutter, with the main pages (login, product list and product details).
+
 With this, I learned how to work with named routes, simple state management with a provider and all the widgets that were necessary to analyze the pages and add the necessary functionality.
+
 At this stage, I didn't focus on making the screens super pretty but on understanding how flutter works, it was very good practice, even though there are few screens, practice makes perfect. 
 
 
